@@ -1,0 +1,16 @@
+﻿body{
+	text-align: center;
+}
+h1{
+	color: blue;
+}
+h3{
+	color: red;
+}
+p {
+	color:dark-gray;
+	background-color:pink;
+}
+img {
+	width: 20em;
+}
